@@ -1,4 +1,4 @@
-# NgrxSecond
+# Angular Counter App - Ngrx - with Standalone components
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
